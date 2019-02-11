@@ -1,0 +1,7 @@
+# project page sections
+- name: Projects
+  href: /projects/
+
+# edit following lines to add more folders to your project page, make sure name is the same as href but capitalized first letter
+# - name: Python
+#   href: /python/

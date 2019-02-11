@@ -1,0 +1,41 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Young Mavericks
+  desc:
+    detail: Kicked off my career with an intense two months of trainings in Python and Data Science. Now I am assigned at various companies for various assignments.
+  date:
+    detail: April 2017 - Now
+  job:
+    detail: Data Scientist
+  icon: fa-laptop
+
+- name:
+    detail: University of Amsterdam
+  desc:
+    detail: ...realising I actually know very little
+  date:
+    detail: July 2010 - December 2016
+  job:
+    detail: Bachelor and Master in Neurobiology
+  icon: fa-university
+
+- name:
+    detail: High School
+  desc:
+    detail: Thinking I know a lot...
+  date:
+    detail: 2003 - 2009
+  job:
+    detail: Petrus Canisius College
+  icon: fa-graduation-cap
+
+- name:
+    detail: Hello, world!
+  desc:
+    detail:
+  date:
+    detail: 15 September 1991
+  job:
+    detail: Born
+  icon: fa-child

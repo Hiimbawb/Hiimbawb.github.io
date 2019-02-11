@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: Python, Machine Learning, Text Mining, GitHub, HTML5, Web Scraping, Dad Jokes
+percentage: 80, 60, 80, 50, 30, 80, 100
